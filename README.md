@@ -22,6 +22,4 @@ The goal is to evaluate how well a **Face Image Quality Assessment (FIQA)** mode
 2. Removing low-quality samples  
 3. Measuring improvement in recognition performance  
 
----
 
-## 📁 Project Structure
